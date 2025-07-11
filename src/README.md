@@ -1,4 +1,4 @@
-# Task Tracker CLI
+                           # Task Tracker CLI
 
 A simple command-line application to manage your tasks using a JSON file for storage. Supports adding, updating, deleting, and listing tasks with status tracking (todo, in-progress, done).
 
